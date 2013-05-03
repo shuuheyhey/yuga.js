@@ -1,4 +1,2 @@
-yuga.js
-=======
-
-yuga.js
+#yujs
+---
